@@ -32,8 +32,7 @@ I'm a Data science Enthusiast...Always looking to derive meaningful insights fro
 
 ## 🛠 Skills
 Javascript, HTML, CSS...
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
-
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=2bbc8a)
 
 
 ## Roadmap
