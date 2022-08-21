@@ -1,7 +1,7 @@
 
 # Hi, I'm Anto Pravin! 👋
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/antopravingit/antopravingit/blob/main/code.gif?raw=true" width="500" height="320" />
   
   <p align="center">
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Anto Pravin 👋 I'm a 🚀 Data enhusiast 🚀 I ❤️ data ❤️">
