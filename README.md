@@ -4,8 +4,7 @@
   <img align="right" alt="GIF" src="https://github.com/antopravingit/antopravingit/blob/main/code.gif?raw=true" width="500" height="320" />
   
   <p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Anto Pravin 👋 I'm a 🚀 Data enhusiast 🚀 I ❤️ data ❤️">
-</p>
+
 
 ## 🚀 About Me
 I'm a Data science Enthusiast...Always looking to derive meaningful insights from the data and i love to do it !!!
