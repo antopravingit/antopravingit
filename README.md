@@ -1,6 +1,7 @@
 
 # Hi, I'm Anto Pravin! 👋
 
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## 🚀 About Me
 I'm a Data science Enthusiast...Always looking to derive meaningful insights from the data and i love to do it !!!
