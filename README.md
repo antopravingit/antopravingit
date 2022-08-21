@@ -1,9 +1,9 @@
 
-# Hi, I'm Anto Pravin! 👋
+# Hi, I'm Anto ! 👋
 
   <img align="right" alt="GIF" src="https://github.com/antopravingit/antopravingit/blob/main/code.gif?raw=true" width="500" height="320" />
   
-  <p align="center">
+  <p align="Right">
 
 
 ## 🚀 About Me
