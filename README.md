@@ -21,8 +21,8 @@ I'm a Data science Enthusiast...Always looking to derive meaningful insights fro
 🧠 I'm currently learning NLP
 
 
-## 🛠 Skills
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=2bbc8a)
+<!--## 🛠 Skills
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=2bbc8a) -->
   
 ## My Recent posts on Medium
 
