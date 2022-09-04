@@ -7,7 +7,7 @@
 
 
 ## 🚀 About Me
-I'm a Data science Enthusiast...Always looking to derive meaningful insights from the data and i love to do it !!!
+I'm a Data Enthusiast...Always looking to derive meaningful insights from the data and i love to do it !!!
 
 
 ## 🔗 Links
