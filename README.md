@@ -24,7 +24,7 @@ I'm a Data science Enthusiast...Always looking to derive meaningful insights fro
 ## 🛠 Skills
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=2bbc8a)
   
-<b>My Recent posts on Medium!</b>
+## My Recent posts on Medium!
 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/0" alt="Recent Article on medium 1"></img></a>
+<a target="_blank" href="https://medium.com/@pravin.anto/auto-insurance-claim-fraud-detection-838041a95395"><img src="https://medium.com/@pravin.anto/auto-insurance-claim-fraud-detection-838041a95395" alt="Recent Article on medium 1"></img></a>
