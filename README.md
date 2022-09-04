@@ -24,6 +24,6 @@ I'm a Data science Enthusiast...Always looking to derive meaningful insights fro
 ## 🛠 Skills
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=2bbc8a)
   
-## My Recent posts on Medium!
+## My Recent posts on Medium
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pravin.anto/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pravin.anto/0" alt="Recent Article on medium 1"></img></a>
